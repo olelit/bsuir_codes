@@ -1,3 +1,4 @@
+package labs1;
 import java.util.Arrays;
 
 class Main{

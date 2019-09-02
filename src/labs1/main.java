@@ -71,9 +71,9 @@ class Main{
               System.out.print(twoDiversionArray[i][j]+" ");
        
             }
-            System.out.println("\n");
+            System.out.println();
         }
-        
+        System.out.println();
         long twoDiversionTime = System.nanoTime() - startTime;
 
         System.out.print(String.format("Одномерный массив: %s наносекунд; Двумерный массив: %s наносекунд", oneDiversionTime,twoDiversionTime));

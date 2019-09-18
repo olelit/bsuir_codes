@@ -14,8 +14,8 @@ public class Person {
     }
 
     public Person(){
-        this.name = "Артем";
-        this.surname = "Перинеев";
+        this.name = "пїЅпїЅпїЅпїЅпїЅ";
+        this.surname = "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ";
         this.datetime = LocalDateTime.now();
     }
 

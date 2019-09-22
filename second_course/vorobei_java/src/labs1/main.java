@@ -1,4 +1,4 @@
-package labs1;
+package second_course.vorobei_java.src.labs1;
 import java.util.Arrays;
 
 class Main{
@@ -76,6 +76,6 @@ class Main{
         System.out.println();
         long twoDiversionTime = System.nanoTime() - startTime;
 
-        System.out.print(String.format("Одномерный массив: %s наносекунд; Двумерный массив: %s наносекунд", oneDiversionTime,twoDiversionTime));
+        System.out.print(String.format("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ: %s пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ; пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ: %s пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ", oneDiversionTime,twoDiversionTime));
     }
 }

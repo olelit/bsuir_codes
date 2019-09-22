@@ -1,6 +1,8 @@
-class Base() {
+package labs3;
+
+class Main {
 	
-	public static void Main(String arg[]) {
+	public static void main(String[] args) {
 		//Вариант 20: гражданское строительство
 	}
 	

@@ -1,3 +1,5 @@
+package labs3.Classes;
+
 public class Worker{
 	
 	private String name;

@@ -1,3 +1,5 @@
+package labs3.Classes;
+
 public class Machine {
 	
 	private float weightBorder;

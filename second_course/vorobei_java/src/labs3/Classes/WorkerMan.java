@@ -1,23 +1,24 @@
 package labs3.Classes;
 
-public class Worker{
+public class WorkerMan{
 	
 	private String name;
 	private int fullYearExpiriense;
 	private float salary;
 	private float pensionProcent;
 	
-	public Worker() {
+	public WorkerMan() {
 		this.name = "Неизвестно";
 		this.fullYearExpiriense = 1;
 		this.salary = 200;
 		this.pensionProcent = 0.2f;
 	}
 	
-	public Worker(String name, int fullYearExpiriense, float salary, float pensionProcent) {
+	public WorkerMan(String name, int fullYearExpiriense, float salary, float pensionProcent) {
 		this.name = name;
 		this.fullYearExpiriense = this.fullYearExpiriense;
 		this.salary = salary;
+		this.pensionProcent = pensionProcent;
 	}
 	
 	public float getPencionForYears(int years) {

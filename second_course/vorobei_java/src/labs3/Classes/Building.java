@@ -7,8 +7,6 @@ public class Building {
 	private float height;
 	private float width;
 	private String name;
-	
-	
 	public Building(String name, float height, float width, float cost) {
 		this.cost = cost;
 		this.name = name;
@@ -18,8 +16,8 @@ public class Building {
 	
 	public Building() {
 		this.cost = 100;
-		this.name = "Объект";
 		this.height = 400;
+		this.name = "Undefinded";
 		this.width = 200;
 	}
 	

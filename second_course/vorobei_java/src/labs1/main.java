@@ -1,4 +1,4 @@
-package second_course.vorobei_java.src.labs1;
+package labs1;
 import java.util.Arrays;
 
 class Main{

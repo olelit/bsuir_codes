@@ -1,4 +1,4 @@
-package com.company;
+package labs1;
 
 import java.time.LocalDateTime;
 

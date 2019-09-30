@@ -1,4 +1,4 @@
-package com.company;
+package labs1;
 
 public enum Education {
     Specialist,

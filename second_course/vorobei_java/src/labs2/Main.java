@@ -12,9 +12,11 @@ class Main {
 		
 		for(int i = 0;i < n;i++) {
 			if(numbers[i] % 3 == 0 && numbers[i] % 5 !=0 ) {
-				System.out.println(numbers[i]);
+				System.out.print(numbers[i]);
 			}
 		}
+		
+		System.out.println();
 		
 		
 		int twoDiversionMatrix[][] = new int [][] {
@@ -23,10 +25,30 @@ class Main {
 			{2,0,0}
 		};
 		
-		int defaultZero = findZeros(twoDiversionMatrix[0]);
-		for(int y = 1; y < twoDiversionMatrix.length; y++) {
-			if(findZero > defaultZero)
+		int newMatrix[][] = new int[3][3];
+		
+		int zeros = 0;
+		for(int y = 0; y < twoDiversionMatrix.length; y++) {
+			zeros = findZeros(twoDiversionMatrix[y]);
+			for(int i = 0; i < twoDiversionMatrix.length;i++) {
+				if( i != y) {
+					int newZeros = findZeros(twoDiversionMatrix[i]);
+					if(newZeros > zeros) {
+						int buf[] = twoDiversionMatrix[y];
+						twoDiversionMatrix[y] = twoDiversionMatrix[i];
+						twoDiversionMatrix[i] = buf;
+					}
+				}
+					
+			}
 		}	
+		
+		for(int i = 0; i < 3;i++) {
+			for(int j = 0;j<3;j++) {
+				System.out.print(twoDiversionMatrix[i][j]);
+			}
+			System.out.println();
+		}
 	}
 	
 	public static int findZeros(int[] arr) {

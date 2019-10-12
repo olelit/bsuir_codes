@@ -1,0 +1,59 @@
+body{
+  background-color:  black;
+  height: 100vh;
+}
+
+.parent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ball__head {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ball{
+  background-color:  white;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+ .eye{
+   flex-direction: row;
+   display: flex;
+ }
+
+ .eye div{
+   background-color: black;
+   border-radius: 50%;
+   width: 20px;
+   height: 20px;
+ }
+
+.nose{
+  background-color: red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.mouth{
+  border-bottom: 1px solid red;
+  width: 30px;
+  height: 10px;
+}
+.ball__body{
+  height: 200px;
+  width: 200px;
+}
+
+.ball__down{
+  height: 300px;
+  width: 300px;
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPP LR1", "SPP LR1\SPP LR1.csproj", "{8F71E067-840F-4C16-A1D9-00ED2187D99C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPP LR2", "SPP LR2\SPP LR2.csproj", "{F89AE062-1C4A-40F9-ACA9-059C1C8827C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F71E067-840F-4C16-A1D9-00ED2187D99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F71E067-840F-4C16-A1D9-00ED2187D99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F71E067-840F-4C16-A1D9-00ED2187D99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F71E067-840F-4C16-A1D9-00ED2187D99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F89AE062-1C4A-40F9-ACA9-059C1C8827C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89AE062-1C4A-40F9-ACA9-059C1C8827C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89AE062-1C4A-40F9-ACA9-059C1C8827C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89AE062-1C4A-40F9-ACA9-059C1C8827C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1135F8-3BA4-47CC-9BF2-DC8216859CA6}
+	EndGlobalSection
+EndGlobal

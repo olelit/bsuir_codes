@@ -1,0 +1,4 @@
+D:\bsuir\CPP\SPP LR1\SPP LR2\bin\Debug\netcoreapp3.1\SPP LR2.exe
+D:\bsuir\CPP\SPP LR1\SPP LR2\obj\Debug\netcoreapp3.1\SPP LR2.csprojAssemblyReference.cache
+D:\bsuir\CPP\SPP LR1\SPP LR2\obj\Debug\netcoreapp3.1\SPP LR2.AssemblyInfoInputs.cache
+D:\bsuir\CPP\SPP LR1\SPP LR2\obj\Debug\netcoreapp3.1\SPP LR2.AssemblyInfo.cs

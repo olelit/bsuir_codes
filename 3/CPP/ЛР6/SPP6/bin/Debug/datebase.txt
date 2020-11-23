@@ -1,0 +1,4 @@
+avto: 1, price: 20,year:1991, photo: car_auto_1.jpg;
+avto: 2, price: 110,year:1997, photo: car_auto_2.jpg;
+avto: 3, price: 250,year:1989, photo: car_auto_3.jpg;
+avto: 4, price: 210,year:2010, photo: car_auto_4.jpg;

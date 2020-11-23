@@ -1,7 +1,7 @@
 class Lab:
 
     def __init__(self):
-        self.eps = 0.001
+        self.eps = 0.1
         self.count = 0
         self.title = ""
 

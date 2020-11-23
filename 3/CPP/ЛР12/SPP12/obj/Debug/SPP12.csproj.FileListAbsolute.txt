@@ -1,0 +1,10 @@
+E:\SPP12\bin\Debug\SPP12.exe.config
+E:\SPP12\bin\Debug\SPP12.exe
+E:\SPP12\bin\Debug\SPP12.pdb
+E:\SPP12\obj\Debug\SPP12.csprojAssemblyReference.cache
+E:\SPP12\obj\Debug\SPP12.Form1.resources
+E:\SPP12\obj\Debug\SPP12.Properties.Resources.resources
+E:\SPP12\obj\Debug\SPP12.csproj.GenerateResource.cache
+E:\SPP12\obj\Debug\SPP12.csproj.CoreCompileInputs.cache
+E:\SPP12\obj\Debug\SPP12.exe
+E:\SPP12\obj\Debug\SPP12.pdb

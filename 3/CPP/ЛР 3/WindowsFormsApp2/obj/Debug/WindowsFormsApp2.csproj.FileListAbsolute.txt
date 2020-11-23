@@ -1,0 +1,30 @@
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Паша\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\egort\Desktop\LAB3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\code\bsuir_labs\3\CPP\ЛР 3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

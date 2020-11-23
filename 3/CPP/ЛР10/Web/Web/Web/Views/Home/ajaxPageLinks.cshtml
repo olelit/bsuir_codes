@@ -1,0 +1,45 @@
+﻿@model Web.Models.indexViewModel
+
+<div id="showRss">
+    <table class="table">
+        <tr>
+            <th>Источник</th>
+            <th>Название новости</th>
+            <th>Описание новости</th>
+            <th>Дата публикации</th>
+        </tr>
+        @foreach (var item in Model.rssList)
+        {
+            <tr>
+                <td>@item.source</td>
+                <td><a href="@item.link" target="_blank">@Html.Raw(item.title)</a></td>
+                <td>@Html.Raw(item.description)</td>
+                <td>@item.date</td>
+            </tr>
+        }
+    </table>
+</div>
+
+<br />
+
+<script>
+    $("#links").on("click", function () {
+        $("body,html").animate({ "scrollTop": 0 }, 300);
+    })
+</script>
+
+<div style="margin-left: 2%">
+    <div class="btn-group" id="links">
+        @for (int i = 1; i <= Model.pageInfo.totalPages; i++)
+        {
+            if (i == Model.pageInfo.pageNumber)
+            {
+                @Ajax.ActionLink(Convert.ToString(i), "ajaxPageLinks", new { page = (i), source = ViewBag.source, sort = ViewBag.sort }, new AjaxOptions { UpdateTargetId = "targetDiv" }, new { @class = "btn btn-primary" });
+            }
+            else
+            {
+                @Ajax.ActionLink(Convert.ToString(i), "ajaxPageLinks", new { page = (i), source = ViewBag.source, sort = ViewBag.sort }, new AjaxOptions { UpdateTargetId = "targetDiv" }, new { @class = "btn btn-default" });
+            }
+        }
+    </div>
+</div>

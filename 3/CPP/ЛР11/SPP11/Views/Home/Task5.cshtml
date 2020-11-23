@@ -1,0 +1,17 @@
+﻿<div class="Login-div align-content-center">
+    @using (Html.BeginForm("Encrypt", "Home", FormMethod.Post))
+    {
+        <div class="register-content">
+            <label class="black-caps">Text</label>
+            <input id="Login" class="Register-input" name="Login" placeholder="Enter a text here" type="text" />
+            <label class="black-caps">@ViewBag.Result</label>
+        </div>
+        <div class="create-account loggin_to_account" style="cursor:pointer">
+            <text> Encrypt</text>
+            <svg style="fill: rgb(64, 64, 65); width: 41px; height: 26px;">
+                <polygon points="27.93 0 25.95 1.98 35.85 11.88 0 11.88 0 14.68 35.85 14.68 25.95 24.59 27.93 26.57 41.21 13.28 27.93 0"></polygon>
+            </svg>
+            <input class="Create-acc-button" type="submit" value="" />
+        </div>
+    }
+</div>

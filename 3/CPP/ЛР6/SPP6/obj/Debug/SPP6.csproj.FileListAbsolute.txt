@@ -1,0 +1,10 @@
+D:\projects\SPP6\bin\Debug\SPP6.exe.config
+D:\projects\SPP6\bin\Debug\SPP6.exe
+D:\projects\SPP6\bin\Debug\SPP6.pdb
+D:\projects\SPP6\obj\Debug\SPP6.csprojAssemblyReference.cache
+D:\projects\SPP6\obj\Debug\SPP6.Form1.resources
+D:\projects\SPP6\obj\Debug\SPP6.Properties.Resources.resources
+D:\projects\SPP6\obj\Debug\SPP6.csproj.GenerateResource.cache
+D:\projects\SPP6\obj\Debug\SPP6.csproj.CoreCompileInputs.cache
+D:\projects\SPP6\obj\Debug\SPP6.exe
+D:\projects\SPP6\obj\Debug\SPP6.pdb

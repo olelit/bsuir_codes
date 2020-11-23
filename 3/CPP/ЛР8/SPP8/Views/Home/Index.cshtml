@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using (Html.BeginForm("SendEmail", "Home", FormMethod.Post))
+{
+<div class="text-center">
+    <h1>Send an email</h1>
+    <div style="border:2px">
+        <h4>Email adress</h4>
+        <input id="Email" name="Email" placeholder="Enter an email here" type="text" />
+        <br />
+        <h4>Text</h4>
+        <input id="Text" name="Text" placeholder="Enter a text" type="text" />
+        <br />
+        <h4>File</h4>
+        <input type="file" id="fileLoader" name="files" title="Load File" />
+        <asp:Button ID="LoginButton" runat="server" Text="ASP click Me" onclientclick="openfileDialog()" />
+    </div>
+    <input style="margin:20px;" type="submit" value="Send an Emalil" />
+</div>
+}

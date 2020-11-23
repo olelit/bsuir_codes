@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tests>
+  <test test_name="T1">
+    <test_company>T_Company</test_company>
+    <test_price>111</test_price>
+  </test>
+  <phone test_name="T2">
+    <test_company>T_comp_2</test_company>
+    <test_price>222</test_price>
+  </phone>
+</tests>

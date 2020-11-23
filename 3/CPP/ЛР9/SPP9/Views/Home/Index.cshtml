@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Database information</h1>
+    @{
+        foreach (var inf in ViewBag.data)
+        {
+
+            <h3> ID: @inf.Id Email: @inf.Email Password: @inf.Password Username: @inf.Username </h3>
+        }
+    }
+</div>

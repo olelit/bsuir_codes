@@ -1,0 +1,294 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@800&display=swap');
+
+
+.Profile-head {
+    width: 60%;
+    color: #ededed;
+    margin-top: 100px;
+    margin-right:auto;
+    margin-left: auto;
+    background-color: #5a6ea4;
+    padding: 20px;
+    border-radius: 5px;
+    height: 215px;
+    min-width: 1150px;
+}
+.User_avatar {
+    width: 175px;
+    height: 175px;
+    border-radius: 4px;
+    float:left;
+    display: inline-block;
+}
+.update {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 20px;
+    align-content: center;
+    width: 120px;
+    height: 45px;
+    border-radius: 5px;
+    border:none;
+    margin-top:20px;
+    outline: none !important;
+    background-color:aquamarine;
+}
+.Name_roles {
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+    font: 300;
+    font-size: 20px;
+    display: inline-block;
+    padding-left:20px;
+}
+    .Name_roles img{
+        width:25px;
+        height:25px;
+    }
+    .Name_roles label {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-family: 'Nanum Gothic', sans-serif;
+    }
+.profile-body {
+    width: 60%;
+    color: #ededed;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    background-color: #5a6ea4;
+    border-radius: 5px;
+    min-width: 1150px;
+    overflow: hidden;
+    min-height: 600px;
+    padding: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.rank {
+    /*background-color: #6882a7;*/
+    background-color: #526994;
+    margin-top: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: #758694;
+    height:154px;
+}
+    .rank img {
+        width: 150px;
+        height: 150px;
+    }
+.rank-info {
+    display: inline-block; 
+    font-size:18px;
+}
+    .rank-info h2 {
+        font-size: 30px;
+        padding-top: 10px;
+       color:#0a96b0
+    }
+.rank-img-div {
+    float:left;
+}
+.wins {
+    color: #42b460
+}
+.Losses{
+    color:#fb4d4d
+}
+.left-side {
+    width: 40%;
+    min-width: 405px;
+    border-top-left-radius: 5px;
+    display: inline-block;
+}
+.left-top-div {
+    padding:3px 3px 0 10px;
+    background-color: #616890;
+    border: solid;
+    border-width: 1px;
+    border-color: #758694;
+}
+.left-top-div h1{
+    font-size:30px;
+}
+
+.right-side {
+    display: inline-block;
+    float: right;
+    width: 59%;
+    min-width: 600px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.top-right-side {
+    background-color: #616890;
+    border: solid;
+    border-width: 1px;
+    padding: 3px 3px 0 10px;
+    border-color: #758694;
+}
+    .top-right-side h2 {
+        font-size: 30px;
+
+    }
+
+.games-stat {
+    background-color: #526994;
+    margin-top: 10px;
+    border: solid;
+    border-width: 1px;
+    border-color: #758694;
+    height: 80px;
+}
+
+.kda-div {
+    text-align:center;
+    width:190px;
+    font-size:15px;
+    display: inline-block;
+    float: left;
+    border:solid;
+    border-top:none;
+    border-bottom:none;
+    border-left:none;
+    border-width: 1px;
+    border-color: #758694;
+    height:80px;
+}
+.line1 {
+    font-size: 22px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 800 !important;
+}
+kills {
+    color: #42b460;
+}
+death {
+    color: #fb4d4d
+}
+assists {
+    color: lightgrey;
+}
+.line2 {
+    font-size: 15px;
+    height: 15px;
+    color: lightgrey;
+}
+
+.line3 {
+    font-size: 15px;
+    color: lightgrey;
+}
+kda {
+    font-weight: 800 !important;
+}
+
+.champs-div {
+    display: inline-block;
+    padding:15px 10px 0 10px;
+    font-size: 15px;
+    height: 80px;
+}
+.champ-stat {
+    display: inline-block;
+}
+.champ-stat img {
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    float:left;
+}
+
+.champ-stat div {
+        display: inline-block;
+        height: 90px;
+}
+.champ-line1 {
+    font-weight: 800 !important;
+}
+.champ-line2{
+    font-size: 13px;
+}
+
+.game {
+    margin-top: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+    height:165px;
+}
+.game-head {
+    padding:5px 10px 5px 10px;
+}
+.game-head b{
+    font-weight: 900 !important;
+}
+.game-head text{
+    font-weight: 100 !important;
+}
+.game-head .result{
+    float:right;
+}
+.game-win {
+    background-color: rgba(105, 241, 84,0.4);
+}
+    .game-win .game-head {
+        background-color:rgba(30, 212, 73, 0.5);
+    }
+.game-lose {
+    background-color: rgba(247, 90, 90,0.4);
+}
+
+    .game-lose .game-head {
+        background-color: rgba(243, 36, 36,0.5);
+    }
+.part1 {
+    padding: 5px;
+    display: inline-block;
+    float:left;
+}
+.champ-icon {
+    display: inline-block;
+    float:left;
+}
+.champ-icon img{
+    width:120px;
+    border-radius:6px;
+}
+
+.summoner-spells {
+    display: inline-block;
+    padding-left: 5px;
+}
+.summoner-spells img{
+    width:57.5px;
+    border-radius:5px;
+}
+.part2 {
+    display: inline-block;
+    width:150px;
+    text-align:center;
+    padding:10px;
+}
+.part2 b{
+    font-size:20px;
+}
+.part2 .stat{
+    font-size:27px;
+}
+.part2 kda{
+    color:#495bf1;
+}
+.Part3 {
+    display: inline-block;
+    float:right;
+    width: 150px;
+    margin-right: 150px;
+    text-align: center;
+    padding: 10px;
+}
+.Part3 b{
+    font-size: 27px;
+
+}
+    .Part3 .gold {
+        font-size: 20px;
+    }
